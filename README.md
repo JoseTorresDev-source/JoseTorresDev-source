@@ -26,6 +26,7 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 **Backend**
 
 * SQLAlchemy
+* Pygame
 
 **Tools & Infrastructure**
 
