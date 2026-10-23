@@ -38,7 +38,7 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 
 ### 📌 Featured Projects
 
-* 🖥️ **Homelab Journey** *(In Progress)* — Documenting my experience building a home server environment with self-hosted services including Jellyfin, Pi-hole, VPN services, Docker containers, and virtual machines using Proxmox.
+* 🖥️ **Homelab Journey** — Documenting my experience building a home server environment with self-hosted services including Jellyfin, Pi-hole, VPN services, Docker containers, and virtual machines using Proxmox.
 
 * 💻 **Software Development Projects** — Coursework and personal projects focused on improving my programming, problem-solving, and engineering skills.
 
