@@ -15,20 +15,17 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 
 **Languages**
 
-* Java
 * Python
 * SQL
 * HTML/CSS
 
 **Frontend**
 
-* React
-* Next.js
+* Tailwind CSS
 
 **Backend**
 
-* Node.js
-* PostgreSQL
+* SQLAlchemy
 
 **Tools & Infrastructure**
 
@@ -47,5 +44,5 @@ I enjoy building software that solves real problems. Recently, I've developed a 
 ### 📫 Connect
 
 * 📧 **Email:** [torres25883@gmail.com](mailto:torres25883@gmail.com)
-* 🌐 **Portfolio:** 
+* 🌐 **Portfolio:** https://josetorresdev-source.github.io/Portfolio-Website/
 * 💼 **LinkedIn:** https://www.linkedin.com/in/jose-torres-iii
